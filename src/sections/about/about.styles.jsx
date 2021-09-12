@@ -43,7 +43,7 @@ export const Grid = styled.div`
 `;
 
 export const Photo = styled.img`
-  max-width: 80%;
+  max-width: 250px;
   max-height: auto;
   align-self: start;
   background-color: #ddd;
@@ -51,9 +51,13 @@ export const Photo = styled.img`
   margin: 0 auto;
 
   @media(min-width: 768px) {
-    max-width: 400px;
+    display: none;
   }
 
+  @media(min-width: 1050px) {
+    max-width: 400px;
+    display: block;
+  }
 `;
 
 export const SecondaryTitle = styled.h2`

@@ -16,10 +16,10 @@ const Projects = ({ id }) => (
         <SectionTitle white>Projects</SectionTitle>
         <Text>Here are two of the large projects I'm currently working on. Check them out on their websites linked below if you're interested.</Text>
         <Flex>
-          <ProjectCard name="Equestrial" image={EquestrialImage} link="">
+          <ProjectCard name="Equestrial" image={EquestrialImage} link="http://www.equestrial.pl">
             Fully self-made browser game about breeding horses with real-life genetics. Made with React frontend and Node.js backend. Work in progress.
           </ProjectCard>
-          <ProjectCard name="Alish 2.0" image={BotImage} link="">
+          <ProjectCard name="Alish 2.0" image={BotImage} link="https://github.com/Shaiyraa/best-bot">
             Discord bot allowing for guild events management in Black Desert Online game, its purpose is automating them in the way, that everyone can configure it easily.
           </ProjectCard>
         </Flex>

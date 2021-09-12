@@ -8,7 +8,7 @@ const ProjectCard = ({ name, link, image, children }) => (
       <Name>{name}</Name>
       <p>{children}</p>
     </Details>
-    <Link>More info</Link>
+    <Link href={link}>More info</Link>
   </Container>
 );
 
