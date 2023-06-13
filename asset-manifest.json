@@ -1,30 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.aee3fbcf.chunk.css",
-    "main.js": "/portfolio-website/static/js/main.afa145a6.chunk.js",
-    "main.js.map": "/portfolio-website/static/js/main.afa145a6.chunk.js.map",
-    "runtime-main.js": "/portfolio-website/static/js/runtime-main.0a2a33ca.js",
-    "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.0a2a33ca.js.map",
-    "static/js/2.61a93632.chunk.js": "/portfolio-website/static/js/2.61a93632.chunk.js",
-    "static/js/2.61a93632.chunk.js.map": "/portfolio-website/static/js/2.61a93632.chunk.js.map",
+    "main.css": "/portfolio-website/static/css/main.0773b315.css",
+    "main.js": "/portfolio-website/static/js/main.1e50e6e0.js",
+    "static/media/equestrial.png": "/portfolio-website/static/media/equestrial.c9507b842475be117bf2.png",
+    "static/media/karina-kuss.jpg": "/portfolio-website/static/media/karina-kuss.c52b3306054e371fc3c1.jpg",
+    "static/media/bot.png": "/portfolio-website/static/media/bot.0a4532e3a981ce46ac69.png",
+    "static/media/contact.svg": "/portfolio-website/static/media/contact.1a57b19b2c9f1d93428e2c34ff12ee5e.svg",
+    "static/media/discordjs.png": "/portfolio-website/static/media/discordjs.8d938c0ad6eb0fced59a.png",
+    "static/media/nodejs.svg": "/portfolio-website/static/media/nodejs.cc3d45a160579a330a5c17cc2c8f1407.svg",
+    "static/media/mongodb.svg": "/portfolio-website/static/media/mongodb.2f0a9a9cc9d63753a0633e61220e60b8.svg",
+    "static/media/react.svg": "/portfolio-website/static/media/react.2ff1c8e6d5c24349260366292539ad49.svg",
+    "static/media/expressjs.svg": "/portfolio-website/static/media/expressjs.c43640813873cdc83cda91bfa4baf5a4.svg",
     "index.html": "/portfolio-website/index.html",
-    "static/css/main.aee3fbcf.chunk.css.map": "/portfolio-website/static/css/main.aee3fbcf.chunk.css.map",
-    "static/js/2.61a93632.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.61a93632.chunk.js.LICENSE.txt",
-    "static/media/bot.0a4532e3.png": "/portfolio-website/static/media/bot.0a4532e3.png",
-    "static/media/contact.1a57b19b.svg": "/portfolio-website/static/media/contact.1a57b19b.svg",
-    "static/media/discordjs.8d938c0a.png": "/portfolio-website/static/media/discordjs.8d938c0a.png",
-    "static/media/equestrial.7c9bd6df.png": "/portfolio-website/static/media/equestrial.7c9bd6df.png",
-    "static/media/expressjs.c4364081.svg": "/portfolio-website/static/media/expressjs.c4364081.svg",
-    "static/media/js.acc4642f.svg": "/portfolio-website/static/media/js.acc4642f.svg",
-    "static/media/karina-kuss.c52b3306.jpg": "/portfolio-website/static/media/karina-kuss.c52b3306.jpg",
-    "static/media/mongodb.2f0a9a9c.svg": "/portfolio-website/static/media/mongodb.2f0a9a9c.svg",
-    "static/media/nodejs.3dc364b8.svg": "/portfolio-website/static/media/nodejs.3dc364b8.svg",
-    "static/media/react.2ff1c8e6.svg": "/portfolio-website/static/media/react.2ff1c8e6.svg"
+    "static/media/js.svg": "/portfolio-website/static/media/js.61c1fa6b2ee4eb8ce8d0e0c25ab67854.svg",
+    "main.0773b315.css.map": "/portfolio-website/static/css/main.0773b315.css.map",
+    "main.1e50e6e0.js.map": "/portfolio-website/static/js/main.1e50e6e0.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a2a33ca.js",
-    "static/js/2.61a93632.chunk.js",
-    "static/css/main.aee3fbcf.chunk.css",
-    "static/js/main.afa145a6.chunk.js"
+    "static/css/main.0773b315.css",
+    "static/js/main.1e50e6e0.js"
   ]
 }
